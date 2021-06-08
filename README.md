@@ -7,7 +7,7 @@ Bu repo Kodluyoruz Back-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde 
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-`git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git`
+`git clone https://github.com/caglalogy/kodluyoruzilkrepo.git`
 
 ## Usage
 
